@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **Java,Android,Php**
+- 💬 Ask me about **Java,Android,Php,MERN**
 
 - 📫 How to reach me **malindusooriyaarachchi@gmail.com**
 

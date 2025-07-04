@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **.NET**
 
-- 💬 Ask me about **Java,Android,Php,MERN,Spring Boot**
+- 💬 Ask me about **Java,Android,Php,MERN,Spring Boot,Django**
 
 - 📫 How to reach me **malindusooriyaarachchi@gmail.com**
 
